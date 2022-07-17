@@ -6,9 +6,7 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css">
     </head>
     <body>
-
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"></script>
-
         <div class="container-fluid bg-light pt-2 pb-2 border">
             <div class="col-md-12 text-center"><h4>Platform</h4></div>
         </div>
